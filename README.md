@@ -1,5 +1,12 @@
-# intro-to-gnns
+# Intro to GNNs
 For getting more practice with graph neural networks
+
+# Citations
+
+- PyTorch Geometric: https://pytorch-geometric.readthedocs.io/en/latest/index.html
+- 
+
+
 
 # Installation Instructions
 As of March 2024, pytorch-geometric does not support Windows or M-silicon Macs. Therefor it is recommended to use a Linux machine or WSL for this project. 
