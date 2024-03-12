@@ -25,6 +25,10 @@ As of March 2024, pytorch-geometric does not support Windows or M-silicon Macs. 
 
     ```pip install -r requirements.txt```
 
+4. Deactivate when you're done
+
+    ```conda deactivate```
+
 ## Using Python Virtual Environment
 
 1. Create your virtual environment
@@ -42,3 +46,7 @@ As of March 2024, pytorch-geometric does not support Windows or M-silicon Macs. 
 4. Install the requirements with pip
 
     ```pip install -r requirements.txt```
+
+4. Deactivate when you're done
+
+    ```deactivate```
