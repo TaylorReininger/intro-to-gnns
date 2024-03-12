@@ -4,7 +4,7 @@ For getting more practice with graph neural networks
 # Citations
 
 - PyTorch Geometric: https://pytorch-geometric.readthedocs.io/en/latest/index.html
-- 
+- Revisiting Semi-Supervised Learning with Graph Embeddings: https://arxiv.org/abs/1603.08861
 
 
 
@@ -31,11 +31,14 @@ As of March 2024, pytorch-geometric does not support Windows or M-silicon Macs. 
 
     ```python -m venv path/to/env/env_name```
 
-
 2. Activate your virtual environment
 
-    ```path/to/env/env_name/bin/activate```
+    ```source path/to/env/env_name/bin/activate```
 
-3. Install the requirements with pip
+3. Upgrade your pip to the latest version
+
+    ```pip install --upgrade pip```
+
+4. Install the requirements with pip
 
     ```pip install -r requirements.txt```
